@@ -1,5 +1,7 @@
 README
 
+IMPORTANT: You must put the .png files into a folder called "assets", within the main game folder (i.e. on the same level as space_defenders.py). 
+
 To move to the left, use the Left Arrow Key, or the A Key.
 To move to the right, use the Right Arrow Key, or the D Key.
 To shoot, use the Space Key. 
